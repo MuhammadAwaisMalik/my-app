@@ -1,0 +1,13 @@
+.wrapper {
+  height: 100vh;
+  background-color: rgba(223, 222, 222, 0.548);
+  z-index: 10;
+}
+.area {
+  width: 500px;
+  height: min-content;
+  padding: 50px;
+  border-radius: 5px;
+  color: black;
+  background-color: white;
+}

@@ -1,0 +1,20 @@
+.w {
+  width: 50vw;
+  height: 100vh;
+}
+.icon {
+  position: absolute;
+  top: 60%;
+  right: 3%;
+}
+.profile-img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+}
+.description-limit {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100ch;
+}
